@@ -1,0 +1,2 @@
+USA,320000000
+United Kingdom,50000000
